@@ -1,0 +1,49 @@
+Whitespace agnostic, malleable punctuation.
+
+Things
+file :
+()   @
+[]   |
+{}   .   Data
+<>   _
+
+Literals
+``   
+"" 
+''   
+
+Casts
+#   number
+$   quantity
+&   string
+
+
+Ops
++
+-
+/
+\   modulo
+=
+*
+%   normalized
+&   concat
+~   compared
+?   test
+!   comment
+
+====
+
+{fred & a b} ! template
+  fred now refers to this template
+  
+(fred f 1 2) ! portable
+  f value is 12
+  f@0 is fred
+  f@2 is 1
+  
+<fred 3 4> ! input -> 12
+  fred.1 is &
+  fred.a is 3
+  
+[fred 4 5] ! macro -> (& 4 5)
+  fred|2 is 5
