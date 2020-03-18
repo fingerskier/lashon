@@ -1,2 +1,2 @@
 # lashon
-An adaptive code for defining human-machine interactions.
+An adaptive coding for human-machine integrations.
