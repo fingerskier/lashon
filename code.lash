@@ -1,11 +1,15 @@
+Ingest
+  {"",}
+Digest
+  [|]
+Predict
+  (@)
+Synthesis
+  <_>
+
+
 Whitespace agnostic, malleable punctuation.
 
-Things
-file :
-()   @
-[]   |
-{}   .   Data
-<>   _
 
 Literals
 ``   
