@@ -3,20 +3,17 @@ An adaptive coding for human-machine integrations.
 
 ## Process
 
-Ingestion
+Ingestion ~ transform
   Intake and formatting of data.
 
-Digestion
+Digestion ~ organize
   Normalizing data.
 
-Prediction
+Prediction ~ use
   Running the model.
 
-Remodeling
+Synthesis ~ adjust
   Training the model.
-
-Synthesis
-  Outputs.
   Feedbacks.
 
   
